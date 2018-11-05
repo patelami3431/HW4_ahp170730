@@ -1,0 +1,42 @@
+Git log for Exercise 4.0: (before commiting to add this text file on github)
+commit c947f8e2cb04f6a01a33359e997af195ac692f86
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Sun Nov 4 18:13:41 2018 -0600
+
+	Final commit
+
+commit 1dd0358f89600865c06e506f1ed122f6f016e86b
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Sun Nov 4 18:01:58 2018 -0600
+
+        Added script2.sh and script3.sh with a temporary folder
+
+commit c302795e8fba04bc3cc18ddcd39f65a5ff5018f8
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Sun Nov 4 16:51:00 2018 -0600
+
+	changed script1.sh
+
+commit 5f9e55295c7145bdd1ebdb7948faa96761a8b480
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Sun Nov 4 00:12:20 2018 -0500
+
+        Added myprog2.c
+
+commit 7fb91f1e536d4629dd486c77a8f45266c9fc4097
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Sat Nov 3 23:19:53 2018 -0500
+
+	Created script myprog1.c
+
+commit e93370bb827edd7c5946d79e6fdf2b6cdbcc1a84
+Author: Ami H Patel <patelami3431@gmail.com>
+Date:   Thu Nov 1 12:53:55 2018 -0500
+
+        added folder HW4
+
+commit d8ea639ec3aa7cee4597a47341b99b4aa1f0f4fe
+Author: Ami H Patel <ahp170730@cslinux1.utdallas.edu>
+Date:   Thu Nov 1 11:58:37 2018 -0500
+
+	my first commit
